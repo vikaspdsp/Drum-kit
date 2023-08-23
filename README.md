@@ -30,7 +30,7 @@ This is a simple drum kit web application that allows you to play different drum
 ## Author
 
 Created by [Vikas Prasad]
-GitHub: [https://github.com/vikaspdsp]
-GitHub repo link: [https://github.com/vikaspdsp/Drum-kit]
-Hosted Link: [https://vikaspdsp.github.io/Drum-kit/]
+-GitHub: [https://github.com/vikaspdsp]
+-GitHub repo link: [https://github.com/vikaspdsp/Drum-kit]
+-Hosted Link: [https://vikaspdsp.github.io/Drum-kit/]
 
